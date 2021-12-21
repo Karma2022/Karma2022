@@ -30,7 +30,7 @@
 <br />
 <br />
 ---
-[instagram]: https://www.instagram.com/karthik_mani12/
+<!---[instagram]: https://www.instagram.com/karthik_mani12/
 [linkedin]: https://www.linkedin.com/in/karthik-manikandan-64a195199/
 ---
 <!---
