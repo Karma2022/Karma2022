@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik Manikandan
 - 👀 I’m interested in full stack development and experimenting with latest tech in general
 - 🌱 I’m currently learning to work with github and other front and backend technologies
-- 💞️ I’m looking to collaborate on intresting projects to work on
+- 💞️ I’m looking to collaborate on interesting projects to work on
 - ⚡ Fun fact: I love to watch and play football
 - 📫 How to reach me is given below
 
