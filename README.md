@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to work with github and other front and backend technologies
 - 💞️ I’m looking to collaborate on interesting projects to work on
 - ⚡ Fun fact: I love to watch and play football
-- 📫 How to reach me is given below
+
 
 
 ### Languages and Tools:
